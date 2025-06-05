@@ -120,7 +120,7 @@ V této práci sestavím ideální počítač pro práci s grafikou. Rozpočet n
 
 💰 Celková cena sestavy: **~137 600 Kč**.
 
-Tato konfigurace je ideální pro:  
+Tato konfigurace je ideální pro:
 - 🎬 Střih videa a color grading v DaVinci Resolve, After Effects  
 - 🎨 3D modelování a rendering v Blenderu, Cinema 4D, Maya  
 - 🧠 Úlohy AI/ML, práci s neuronovými sítěmi a modely umělé inteligence  
