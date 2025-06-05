@@ -121,10 +121,10 @@ V této práci sestavím ideální počítač pro práci s grafikou. Rozpočet n
 💰 Celková cena sestavy: **~137 600 Kč**.
 
 Tato konfigurace je ideální pro:  
-  🎬 Střih videa a color grading v DaVinci Resolve, After Effects  
-  🎨 3D modelování a rendering v Blenderu, Cinema 4D, Maya  
-  🧠 Úlohy AI/ML, práci s neuronovými sítěmi a modely umělé inteligence  
-  📐 Projektování v AutoCADu, Revitu, SolidWorks  
-  🕹️ Hraní her na ultra nastavení ve 4K a VR
+- 🎬 Střih videa a color grading v DaVinci Resolve, After Effects  
+- 🎨 3D modelování a rendering v Blenderu, Cinema 4D, Maya  
+- 🧠 Úlohy AI/ML, práci s neuronovými sítěmi a modely umělé inteligence  
+- 📐 Projektování v AutoCADu, Revitu, SolidWorks  
+- 🕹️ Hraní her na ultra nastavení ve 4K a VR
 
 🔥 Vyvážená kombinace špičkového procesoru, 96 GB operační paměti, RTX 5090 a rychlých NVMe SSD zajišťuje nekompromisní výkon. Sestava zároveň nabízí skvělé chlazení, spolehlivé napájení a estetickou skříň s RGB – ideální nejen výkonem, ale i vzhledem.
